@@ -4,7 +4,7 @@
 }
 .img_2{
     width: 500px; 
-    position: absolute; right:300px;top:100px;
+    position: absolute; right:300px;top:1600px;
 }
 .img_3{
     position: absolute; left:40px;top:400px;
@@ -23,7 +23,7 @@
     width: 500px; 
 }
 .img_9{
-    position: absolute; right:10px;top:1600px;
+    position: absolute; right:10px;top:100px;
     width: 500px; 
 }
 .img_10{
