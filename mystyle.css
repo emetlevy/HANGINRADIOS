@@ -4,7 +4,7 @@
 }
 .img_2{
     width: 500px; 
-    position: absolute; right:300px;top:1600px;
+    position: absolute; right:600px;top:1900px;
 }
 .img_3{
     position: absolute; left:40px;top:400px;
@@ -23,11 +23,11 @@
     width: 500px; 
 }
 .img_9{
-    position: absolute; right:10px;top:100px;
+    position: absolute; right:10px;top:1600px;
     width: 500px; 
 }
 .img_10{
-    position: absolute; right:500px;top:1900px;
+    position: absolute; right:100px;top:60px;
     width: 500px; }
 
 .mov_7{
@@ -35,7 +35,8 @@
     width: 500px; }
 
 .mov_8{
-    position: absolute; right:300px;top:2560px;
+    position: absolute; right:300px;top:2300px;
     width: 500px; 
-    padding-bottom: 50px;   
+    padding-bottom: 50px;
+    
 }
